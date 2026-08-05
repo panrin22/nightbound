@@ -20,6 +20,8 @@ npm install
 npm run dev            # http://127.0.0.1:8787
 ```
 
+**Production on Hostinger VPS:** see [`backend/HOSTINGER_VPS.md`](./backend/HOSTINGER_VPS.md)
+
 ### Mobile app
 ```bash
 cd nightbound
