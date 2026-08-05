@@ -9,6 +9,7 @@ React Native (Expo) · AI backend · Google Play target **$2.99/mo** subscriptio
 | [`backend/`](./backend/) | Story API (Groq / xAI) |
 | [`store/`](./store/) | Privacy Policy, Terms, Play listing copy |
 | [`PLAN.md`](./PLAN.md) | Product & build plan |
+| [`STATUS.md`](./STATUS.md) | **สรุปสถานะปัจจุบัน** (ทำแล้ว / เหลือ / URL) |
 
 ## Quick start
 
