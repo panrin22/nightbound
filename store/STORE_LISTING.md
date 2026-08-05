@@ -1,4 +1,4 @@
-﻿# Nightbound โ€” Google Play Store Listing Pack
+# Nightbound — Google Play Store Listing Pack
 
 **Package:** `com.nightbound.app`  
 **Default language:** English (United States)  
@@ -12,7 +12,7 @@
 
 | Field | Value |
 |--------|--------|
-| App name (โค30) | **Nightbound** |
+| App name (≤30) | **Nightbound** |
 | Optional longer | Nightbound: AI Bedtime Stories |
 | Developer name | *(your legal / brand name)* |
 | Contact email | rinpan@yahoo.com |
@@ -21,7 +21,7 @@
 
 ---
 
-## 2. Short description (โค80 characters)
+## 2. Short description (≤80 characters)
 
 **Primary (79 chars):**
 ```
@@ -30,12 +30,12 @@ Soft literary AI bedtime stories for adults. Calm nights. Sleep-first endings.
 
 **Alt A:**
 ```
-AI bedtime stories for grown-upsโ€”cozy, romance, mystery. Wind down gently.
+AI bedtime stories for grown-ups—cozy, romance, mystery. Wind down gently.
 ```
 
 **Alt B:**
 ```
-Unwind with adult bedtime tales. Mood โ’ story โ’ soft voice. Not for kids.
+Unwind with adult bedtime tales. Mood → story → soft voice. Not for kids.
 ```
 
 ---
@@ -45,38 +45,38 @@ Unwind with adult bedtime tales. Mood โ’ story โ’ soft voice. Not fo
 ```
 Nightbound is a calm space for adults who need help shutting the day off.
 
-Pick a moodโ€”Cozy, Soft Romance, Gentle Mystery, Nature, Literary, and moreโ€”and get an original soft literary story written for wind-down, not hype. Read in a dark, quiet interface or listen with your deviceโ€s system voice. A sleep timer lets the night take over when youโ€re ready.
+Pick a mood—Cozy, Soft Romance, Gentle Mystery, Nature, Literary, and more—and get an original soft literary story written for wind-down, not hype. Read in a dark, quiet interface or listen with your device’s system voice. A sleep timer lets the night take over when you’re ready.
 
 WHY NIGHTBOUND
-โ€ข Sleep-first storytelling โ€” pacing slows; endings fade to rest (no cheap cliffhangers)
-โ€ข Made for adults โ€” literary tone, emotional nuance, never a kidsโ€ app
-โ€ข Soft literary only โ€” tender, not explicit
-โ€ข Fresh stories โ€” AI-crafted for tonightโ€s mood
-โ€ข Library & favorites โ€” re-read or re-listen when you want the same quiet company
-โ€ข Free to try โ€” limited daily stories; Premium unlocks more moods and unlimited nights
+• Sleep-first storytelling — pacing slows; endings fade to rest (no cheap cliffhangers)
+• Made for adults — literary tone, emotional nuance, never a kids’ app
+• Soft literary only — tender, not explicit
+• Fresh stories — AI-crafted for tonight’s mood
+• Library & favorites — re-read or re-listen when you want the same quiet company
+• Free to try — limited daily stories; Premium unlocks more moods and unlimited nights
 
 PREMIUM
-Nightbound Premium is an optional auto-renewing subscription (price shown in Google Play, e.g. $2.99/month where available). Cancel anytime in Google Play โ’ Subscriptions.
+Nightbound Premium is an optional auto-renewing subscription (price shown in Google Play, e.g. $2.99/month where available). Cancel anytime in Google Play → Subscriptions.
 
 IMPORTANT
 Nightbound is entertainment for adults 18+. It is not a medical device and does not diagnose, treat, or cure insomnia or any condition. If you have sleep or health concerns, talk to a qualified professional.
 
-Content is AI-generated and may vary. Soft literary guidelines applyโ€”no graphic material.
+Content is AI-generated and may vary. Soft literary guidelines apply—no graphic material.
 
 Unwind. Dim the lights. Let the last page go soft.
 ```
 
-**Character count:** ~1,350 (under Playโ€s 4000 limit)
+**Character count:** ~1,350 (under Play’s 4000 limit)
 
 ---
 
 ## 4. ASO keywords (for description naturally; no separate keyword field on Play)
 
-Use naturally in description / whatโ€s new:
+Use naturally in description / what’s new:
 
-`bedtime stories adults` ยท `sleep stories` ยท `AI stories` ยท `calm romance` ยท `wind down` ยท `soft literary` ยท `night reading` ยท `sleep timer` ยท `adult audiobook short` ยท `cozy story`
+`bedtime stories adults` · `sleep stories` · `AI stories` · `calm romance` · `wind down` · `soft literary` · `night reading` · `sleep timer` · `adult audiobook short` · `cozy story`
 
-**Do not claim:** โ€cures insomniaโ€, โ€clinicalโ€, โ€doctor recommendedโ€ (unless true and allowed).
+**Do not claim:** “cures insomnia”, “clinical”, “doctor recommended” (unless true and allowed).
 
 ---
 
@@ -84,28 +84,28 @@ Use naturally in description / whatโ€s new:
 
 | Asset | Spec | Status |
 |--------|------|--------|
-| App icon | 512 ร— 512 PNG, 32-bit | Use branded night/amber mark (replace default Expo icon) |
-| Feature graphic | 1024 ร— 500 | Dark sky + โ€Nightboundโ€ + โ€Stories for grown-upsโ€ |
-| Phone screenshots | min 2, ideal 6โ€“8 | See shot list below |
+| App icon | 512 × 512 PNG, 32-bit | Use branded night/amber mark (replace default Expo icon) |
+| Feature graphic | 1024 × 500 | Dark sky + “Nightbound” + “Stories for grown-ups” |
+| Phone screenshots | min 2, ideal 6–8 | See shot list below |
 | Tablet (optional) | 7" / 10" | Later |
-| Promo video (optional) | 30s YouTube | Mood picker โ’ generating โ’ reading โ’ timer |
+| Promo video (optional) | 30s YouTube | Mood picker → generating → reading → timer |
 
 ### Screenshot shot list (phone, dark UI)
 
-1. **Hero** โ€” Home moods grid + title โ€How should the night feel?โ€
-2. **Age / brand** โ€” Age gate or splash with โ€Stories for grown-upsโ€
-3. **Generating** โ€” Ritual loading (โ€Softening the endingโ€ฆโ€)
-4. **Reader** โ€” Story text, large type, dark theme
-5. **Listen** โ€” TTS controls + sleep timer chips
-6. **Library** โ€” Saved stories list
-7. **Paywall** โ€” $2.99/mo benefits (no misleading โ€guarantee sleepโ€)
-8. **Optional** โ€” Settings / Premium badge
+1. **Hero** — Home moods grid + title “How should the night feel?”
+2. **Age / brand** — Age gate or splash with “Stories for grown-ups”
+3. **Generating** — Ritual loading (“Softening the ending…”)
+4. **Reader** — Story text, large type, dark theme
+5. **Listen** — TTS controls + sleep timer chips
+6. **Library** — Saved stories list
+7. **Paywall** — $2.99/mo benefits (no misleading “guarantee sleep”)
+8. **Optional** — Settings / Premium badge
 
 **Overlay captions (short):**
-- โ€Mood โ’ story in momentsโ€
-- โ€Soft literary. Adults only.โ€
-- โ€Listen with system voiceโ€
-- โ€Ends gently. Sleep timer.โ€
+- “Mood → story in moments”
+- “Soft literary. Adults only.”
+- “Listen with system voice”
+- “Ends gently. Sleep timer.”
 
 ---
 
@@ -121,16 +121,16 @@ Answer honestly for **soft literary adult stories, non-explicit**:
 | Controlled substances | None |
 | User interaction | No social UGC feed; AI text generation + report path |
 | Shares location | No |
-| Targets children | **No** โ€” 18+ |
+| Targets children | **No** — 18+ |
 
-**Expected band:** often **Teen** or **Mature 17+** depending on romance wordingโ€”prefer questionnaire answers that match *no explicit sex*.  
-In store: note โ€Not designed for children.โ€
+**Expected band:** often **Teen** or **Mature 17+** depending on romance wording—prefer questionnaire answers that match *no explicit sex*.  
+In store: note “Not designed for children.”
 
 Age gate in app already asks 18+.
 
 ---
 
-## 7. Data safety form (Play Console โ€” draft answers)
+## 7. Data safety form (Play Console — draft answers)
 
 Update if you add Firebase/analytics later.
 
@@ -142,16 +142,16 @@ Update if you add Firebase/analytics later.
 | Purchase history | Yes (via Play) | Google processes payment | App functionality |
 | User-generated content | Story text / optional seeds | Processed by AI provider to generate stories | App functionality |
 | Account info | Only if sign-in added | Provider as needed | Account management |
-| Approximate location | No | โ€” | โ€” |
-| Precise location | No | โ€” | โ€” |
-| Photos / contacts / mic | No | โ€” | โ€” |
+| Approximate location | No | — | — |
+| Precise location | No | — | — |
+| Photos / contacts / mic | No | — | — |
 
-\* โ€Sharedโ€ = sold or transferred for advertising; processing by **service providers** (hosting, AI API) is typically declared as โ€Data is processed byโ€ฆโ€ / service providersโ€”not โ€sold.โ€
+\* “Shared” = sold or transferred for advertising; processing by **service providers** (hosting, AI API) is typically declared as “Data is processed by…” / service providers—not “sold.”
 
 **Security practices:**
 - [x] Data encrypted in transit (HTTPS)
-- [ ] Users can request deletion (email privacy@โ€ฆ) โ€” offer process
-- [ ] Committed to Play Families Policy โ€” **N/A** (not for kids)
+- [ ] Users can request deletion (email privacy@…) — offer process
+- [ ] Committed to Play Families Policy — **N/A** (not for kids)
 
 **Sensitive permissions:** none required for MVP (no mic if system TTS only).
 
@@ -165,7 +165,7 @@ Update if you add Firebase/analytics later.
 
 ## 9. App access / login
 
-MVP: no mandatory login โ’ โ€All functionality available without special accessโ€  
+MVP: no mandatory login → “All functionality available without special access”  
 If you add account-only features later, provide demo credentials for reviewers.
 
 ---
@@ -176,14 +176,14 @@ Generally **No** for news, COVID contact tracing, etc.
 
 ---
 
-## 11. Store presence โ€” โ€Whatโ€s newโ€ (v1.0)
+## 11. Store presence — “What’s new” (v1.0)
 
 ```
 First release of Nightbound
-โ€ข Mood-based soft literary bedtime stories for adults
-โ€ข System voice playback & sleep timer
-โ€ข Personal library
-โ€ข Optional Nightbound Premium
+• Mood-based soft literary bedtime stories for adults
+• System voice playback & sleep timer
+• Personal library
+• Optional Nightbound Premium
 ```
 
 ---
@@ -200,15 +200,15 @@ First release of Nightbound
 **GitHub Pages**
 1. Create public repo `nightbound-legal` (or use project site)
 2. Put `privacy-policy.html` + `terms.html` in `/docs` or root
-3. Enable Pages โ’ HTTPS URL
+3. Enable Pages → HTTPS URL
 4. Paste URL into Play Console
 
 **Netlify Drop / Cloudflare Pages**
-- Drag the `store/` folder โ’ get HTTPS URL
+- Drag the `store/` folder → get HTTPS URL
 
 **Replace before go-live**
-- `rinpan@yahoo.com` / `rinpan@yahoo.com` โ’ real email you monitor
-- Optional: governing law in Terms ยง13
+- Contact email: `rinpan@yahoo.com` (set)
+- Optional: governing law in Terms §13
 
 ---
 
@@ -225,7 +225,7 @@ First release of Nightbound
 | Grace period | Use Play defaults |
 | Yearly (optional) | `premium_yearly` @ $24.99 |
 
-Billing declaration: digital content โ’ Play Billing when live.
+Billing declaration: digital content → Play Billing when live.
 
 ---
 
@@ -234,8 +234,8 @@ Billing declaration: digital content โ’ Play Billing when live.
 - [ ] Privacy Policy live on **HTTPS**
 - [ ] Terms live on HTTPS
 - [ ] Real support email works
-- [ ] Icon 512 + feature graphic 1024ร—500
-- [ ] โฅ6 screenshots (phone)
+- [ ] Icon 512 + feature graphic 1024×500
+- [ ] ≥6 screenshots (phone)
 - [ ] Short + full description pasted
 - [ ] Data safety form filled
 - [ ] Content rating questionnaire completed
@@ -248,12 +248,12 @@ Billing declaration: digital content โ’ Play Billing when live.
 
 ## 15. Listing tone rules (brand)
 
-| Do | Donโ€t |
+| Do | Don’t |
 |----|--------|
-| โ€Unwindโ€, โ€wind downโ€, โ€calmโ€, โ€soft literaryโ€ | โ€Cure insomniaโ€, โ€clinically proven sleepโ€ |
-| โ€For adults / grown-upsโ€ | Target kids or โ€family bedtimeโ€ as primary |
-| โ€AI-generated stories may varyโ€ | Promise perfect unique masterpieces every time |
-| โ€Cancel anytime in Google Playโ€ | Hide subscription terms |
+| “Unwind”, “wind down”, “calm”, “soft literary” | “Cure insomnia”, “clinically proven sleep” |
+| “For adults / grown-ups” | Target kids or “family bedtime” as primary |
+| “AI-generated stories may vary” | Promise perfect unique masterpieces every time |
+| “Cancel anytime in Google Play” | Hide subscription terms |
 
 ---
 
