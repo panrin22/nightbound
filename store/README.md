@@ -1,4 +1,4 @@
-# Nightbound — Store & Legal pack
+﻿# Nightbound โ€” Store & Legal pack
 
 | File | Purpose |
 |------|---------|
@@ -12,9 +12,9 @@ Open `privacy-policy.html` or `terms.html` in a browser.
 
 ## Before Play review
 
-1. Replace `privacy@nightbound.app` / `support@nightbound.app` with your real email (in both HTML files).
+1. Replace `rinpan@yahoo.com` / `rinpan@yahoo.com` with your real email (in both HTML files).
 2. Host on HTTPS (GitHub Pages / Netlify / Cloudflare).
-3. Paste Privacy Policy URL into Play Console → App content → Privacy policy.
+3. Paste Privacy Policy URL into Play Console โ’ App content โ’ Privacy policy.
 4. Copy short + full description from `STORE_LISTING.md`.
 
 ## Host on GitHub Pages (example)
@@ -23,5 +23,5 @@ Open `privacy-policy.html` or `terms.html` in a browser.
 # from this folder, or copy files to a public repo /docs
 ```
 
-Then Settings → Pages → Deploy from branch → get  
+Then Settings โ’ Pages โ’ Deploy from branch โ’ get  
 `https://<user>.github.io/<repo>/privacy-policy.html`
