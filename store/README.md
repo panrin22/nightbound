@@ -3,6 +3,8 @@
 | File | Purpose |
 |------|---------|
 | [STORE_LISTING.md](./STORE_LISTING.md) | Play Console copy, ASO, Data safety, screenshots, checklist |
+| [GRAPHICS_AND_EAS.md](./GRAPHICS_AND_EAS.md) | **Graphics checklist + EAS Build (AAB) step-by-step** |
+| [assets/](./assets/) | Drop finished icon / feature / screenshots here |
 | [privacy-policy.html](./privacy-policy.html) | Hostable Privacy Policy |
 | [terms.html](./terms.html) | Hostable Terms of Service |
 

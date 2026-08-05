@@ -28,13 +28,14 @@ npm install
 npx expo start -c
 ```
 
-## Legal (Play Store)
+## Legal & shipping (Play Store)
 
 - Privacy: [`store/privacy-policy.html`](./store/privacy-policy.html)
 - Terms: [`store/terms.html`](./store/terms.html)
 - Listing pack: [`store/STORE_LISTING.md`](./store/STORE_LISTING.md)
+- **Graphics + EAS Build:** [`store/GRAPHICS_AND_EAS.md`](./store/GRAPHICS_AND_EAS.md)
 
-Host `store/*.html` on HTTPS (e.g. GitHub Pages) before Play review.
+Host `docs/*.html` on GitHub Pages before Play review.
 
 ## Decisions (MVP)
 
