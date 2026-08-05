@@ -1,5 +1,11 @@
 # Nightbound — App icon prompts
 
+**Chosen direction:** **Moon + page / scroll** (ดวงจันทร์ + หน้ากระดาษ)  
+**Final files:**
+- App: `nightbound/assets/images/icon.png`
+- Store: `store/assets/icon-final-moon-page.jpg` (+ `icon-512.jpg`)
+- Alt: `store/assets/icon-alt-moon-parchment.jpg` (full parchment sheet look)
+
 **Use for:** Midjourney / DALL·E / Ideogram / Gemini / Canva AI / Imagine  
 **Output needed:** square **1:1** → export **512×512 PNG** (Play) + **1024×1024** (Expo `icon.png`)  
 **Brand colors:** bg `#0B0D12` · accent `#C4A574` · soft text `#E8E4DC`
