@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Env & secrets — never commit
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+**/.env.txt
+*.pem
+*.p8
+*.p12
+*.jks
+*.mobileprovision
+*.key
+
+# Expo / Metro
+**/.expo/
+**/dist/
+**/web-build/
+**/expo-env.d.ts
+**/.metro-health-check*
+**/.tmp-export/
+
+# Native builds
+**/ios/
+**/android/
+**/.kotlin/
+
+# Logs & OS
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+.DS_Store
+Thumbs.db
+
+# TypeScript / IDE
+**/*.tsbuildinfo
+.idea/
+.vscode/
+*.swp
+
+# Backend build
+backend/dist/
+
+# Misc
+.tmp/
+.cache/
