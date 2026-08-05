@@ -43,8 +43,10 @@
     },
     "extra": {
       "eas": {
-        "projectId": "replace-before-eas-build"
-      }
-    }
+        "projectId": "37216c33-2555-4b01-a626-a04c896bf90e"
+      },
+      "router": {}
+    },
+    "owner": "panrins-team"
   }
 }
